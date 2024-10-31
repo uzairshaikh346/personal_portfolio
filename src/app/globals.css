@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bordor{
+  border-color: #5E3BEE;
+  border: 5px;
+}
